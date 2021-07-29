@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eira1605
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and mathematics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on tout
 - 📫 How to reach me twitter @eira_osu
